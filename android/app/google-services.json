@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463867274727",
+    "firebase_url": "https://ecommerce-eae4d.firebaseio.com",
+    "project_id": "ecommerce-eae4d",
+    "storage_bucket": "ecommerce-eae4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463867274727:android:ff30bc8b143848c5854942",
+        "android_client_info": {
+          "package_name": "com.fkasim.ecommerceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463867274727-hba69gbtr1jlp9qko71aeqhvgvhsmc0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NwlOvothUq6FsVjbyNpyq8XpwKK9W7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463867274727-hba69gbtr1jlp9qko71aeqhvgvhsmc0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
